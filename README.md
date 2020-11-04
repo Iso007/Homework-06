@@ -12,6 +12,12 @@ I WANT to see the weather outlook for multiple cities
 SO THAT I can plan a trip accordingly
 ```
 
+## Deployment
+```
+my app: file:///C:/Users/isodi/Homework-6/index.html
+
+```
+
 ## Acceptance Criteria
 
 ```
